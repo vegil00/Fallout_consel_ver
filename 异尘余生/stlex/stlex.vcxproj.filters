@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="xml">
+      <UniqueIdentifier>{a45c3195-0348-4ac6-aeb1-d5e507e1abc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="物品">
+      <UniqueIdentifier>{80a2d89c-d871-491f-b463-834ee7ebe08d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SenceManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cmap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cobject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cmonster.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cmonster_manager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MapManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Battle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tinystr.cpp">
+      <Filter>xml</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml.cpp">
+      <Filter>xml</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlerror.cpp">
+      <Filter>xml</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlparser.cpp">
+      <Filter>xml</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="Posion.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="Equipment.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemManager.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Misc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Quest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TeleportNode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NPCManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SenceManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cmap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cmonster.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cmonster_manager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MapManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Battle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml.h">
+      <Filter>xml</Filter>
+    </ClInclude>
+    <ClInclude Include="tinystr.h">
+      <Filter>xml</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="Posion.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="Equipment.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemManager.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="Shop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Quest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TeleportNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Chest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NPCManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

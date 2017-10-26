@@ -1,0 +1,18 @@
+<Save>
+    <Player name="Íæ¼Ò">
+        <Position name="Î»ÖÃ" posX="6" posY="4" />
+        <HP name="HP" mhp="50" ohp="50" chp="45" />
+        <ATK name="ATK" oatk="10" iatk="10" />
+        <DEF name="DEF" odef="5" idef="5" />
+        <WEAPON name="WEAPON" id="-1" equ="0" />
+        <ARMOR name="ARMOR" id="-1" equ="0" />
+        <JEWLLY name="JEWLLY" id="-1" equ="0" />
+        <Money name="Money" money="40" />
+        <Bag name="bag">
+            <item id="0" num="3" />
+            <item id="10" num="1" />
+            <item id="92" num="1" />
+        </Bag>
+    </Player>
+    <Map name="µØÍ¼" mapname="level1" />
+</Save>

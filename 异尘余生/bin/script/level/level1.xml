@@ -1,0 +1,18 @@
+<level>
+<SpwanArea name="Ë¢ÐÂÇø">
+<Rect num="1" left="5" top="4"  right="7" button="5"/>
+<Rect num="2" left="5" top="4"  right="7" button="5"/>
+<Rect num="3" left="8" top="8"  right="9" button="9"/>
+</SpwanArea>
+<Nodes>
+<Node key="1" Output="¨~" passable="0"/>
+<Node key="0" Output="  " passable="1"/>
+<Node key="2" Output="¡ñ" passable="0"/>
+<Node key="3" Output="¡ø" passable="1"/>
+<Node key="4" Output="¡ð" passable="0"/>
+</Nodes>
+<Enemies name="µÐÈË">
+<enemy posX="6" posY="6" idmin="0" idmax="0"/>
+</Enemies>
+<RespawnNum lessthan="1" max="3"/>
+</level>

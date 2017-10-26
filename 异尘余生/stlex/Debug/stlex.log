@@ -1,0 +1,51 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  源.cpp
+  Shop.cpp
+d:\program exercise\project\异尘余生\stlex\shop.cpp(112): warning C4101: “goodNum”: 未引用的局部变量
+  SenceManager.cpp
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(339): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(380): warning C4018: “>”: 有符号/无符号不匹配
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(448): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(480): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(539): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(540): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(554): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(555): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(556): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(568): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(569): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(579): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(580): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(590): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(607): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(624): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(639): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(665): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(666): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(680): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(733): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(935): warning C4018: “>”: 有符号/无符号不匹配
+d:\program exercise\project\异尘余生\stlex\sencemanager.cpp(1039): warning C4018: “<”: 有符号/无符号不匹配
+d:\program exercise\project\异尘余生\stlex\stdafx.h(40): warning C4715: “position::operator<”: 不是所有的控件路径都返回值
+  MapManager.cpp
+  Battle.cpp
+  正在跳过...(未检测到相关更改)
+  Player.cpp
+  stlex.vcxproj -> D:\program exercise\project\异尘余生\stlex\../bin\stlex.exe
+  stlex.vcxproj -> ../bin\stlex.pdb (Full PDB)

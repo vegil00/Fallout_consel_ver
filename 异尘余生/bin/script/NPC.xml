@@ -1,0 +1,6 @@
+<NPC>
+<npc id="0" name="村长">
+<dialog str="到北方的圣殿取得我们祖先的圣袍"/>
+<dialog str="去寻找伊甸制造器吧"/>
+</npc>
+</NPC>

@@ -1,0 +1,13 @@
+<Monsters>
+<Monster id ="0" name="·øÉäÂìÒÏ" hp="10" mp="0" atk="10" def="1">
+<FallList>
+<Fall id="90" possibility="50"/>
+<Fall id="92" possibility="50"/>
+</FallList>
+</Monster>
+<Monster id ="1" name="·øÉäÐ«" hp="15" mp="0" atk="10" def="3">
+<FallList>
+<Fall id="91" possibility="50"/>
+</FallList>
+</Monster>
+</Monsters>
